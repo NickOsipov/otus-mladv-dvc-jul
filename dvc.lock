@@ -9,14 +9,14 @@ stages:
       size: 91999
     - path: src/train.py
       hash: md5
-      md5: 1a7eca73446e6ddd8980109a951d0b5b
-      size: 3587
+      md5: c9f229d49dcf3967361b4d3386b3549b
+      size: 3585
     outs:
     - path: metrics.csv
       hash: md5
-      md5: e763781238f4aa4db4573e53b003852e
-      size: 46
+      md5: a086d8111c283421a2f5c86169315bb4
+      size: 44
     - path: models/model.joblib
       hash: md5
-      md5: b15c5d2eead705566176c0d41246e752
-      size: 34312289
+      md5: d36451a955872a89cd27bc2b19fa3ad5
+      size: 352193
